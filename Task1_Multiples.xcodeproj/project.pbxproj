@@ -14,6 +14,7 @@
 		9401B8DA1C42278600D1A1B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9401B8D81C42278600D1A1B6 /* LaunchScreen.storyboard */; };
 		9401B8E51C42278600D1A1B6 /* Task1_MultiplesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9401B8E41C42278600D1A1B6 /* Task1_MultiplesTests.swift */; };
 		9401B8F01C42278600D1A1B6 /* Task1_MultiplesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9401B8EF1C42278600D1A1B6 /* Task1_MultiplesUITests.swift */; };
+		9401B8FE1C42290200D1A1B6 /* MultipleNumberTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9401B8FD1C42290200D1A1B6 /* MultipleNumberTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9401B8EB1C42278600D1A1B6 /* Task1_MultiplesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Task1_MultiplesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9401B8EF1C42278600D1A1B6 /* Task1_MultiplesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1_MultiplesUITests.swift; sourceTree = "<group>"; };
 		9401B8F11C42278600D1A1B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9401B8FD1C42290200D1A1B6 /* MultipleNumberTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MultipleNumberTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				9401B8CF1C42278600D1A1B6 /* AppDelegate.swift */,
 				9401B8D11C42278600D1A1B6 /* ViewController.swift */,
+				9401B8FD1C42290200D1A1B6 /* MultipleNumberTableViewController.swift */,
 				9401B8D31C42278600D1A1B6 /* Main.storyboard */,
 				9401B8D61C42278600D1A1B6 /* Assets.xcassets */,
 				9401B8D81C42278600D1A1B6 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				9401B8D21C42278600D1A1B6 /* ViewController.swift in Sources */,
 				9401B8D01C42278600D1A1B6 /* AppDelegate.swift in Sources */,
+				9401B8FE1C42290200D1A1B6 /* MultipleNumberTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
